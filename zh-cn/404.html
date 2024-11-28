@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="演示说明">
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="就读于华侨大学人工智能专业的大四学生">
 <title>404 Page not found</title>
 
 <link rel='canonical' href='http://localhost:1313/zh-cn/404.html'>
 
 <link rel="stylesheet" href="/scss/style.min.b85d409893e1d280ee680512b44cb882b74fd32a4ca8363f231c6a45ceb393a9.css"><meta property='og:title' content="404 Page not found">
-<meta property='og:description' content="演示说明">
+<meta property='og:description' content="就读于华侨大学人工智能专业的大四学生">
 <meta property='og:url' content='http://localhost:1313/zh-cn/404.html'>
 <meta property='og:site_name' content='安炳旭'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2020-09-09T00:00:00&#43;00:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2024-11-28T00:00:00&#43;00:00 '/>
 <meta name="twitter:title" content="404 Page not found">
-<meta name="twitter:description" content="演示说明">
+<meta name="twitter:description" content="就读于华侨大学人工智能专业的大四学生">
     </head>
     <body class="">
     <script>
@@ -68,7 +68,7 @@
         
         <div class="site-meta">
             <h1 class="site-name"><a href="/zh-cn">安炳旭</a></h1>
-            <h2 class="site-description">演示说明</h2>
+            <h2 class="site-description">就读于华侨大学人工智能专业的大四学生</h2>
         </div>
     </header><ol class="menu-social">
             
@@ -137,7 +137,7 @@
         
         
         <li >
-            <a href='/zh-cn/%E5%85%B3%E4%BA%8E/' >
+            <a href='/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/' >
                 
                 
                 
@@ -150,7 +150,7 @@
 
 
                 
-                <span>关于</span>
+                <span>关于我</span>
             </a>
         </li>
         
@@ -176,20 +176,20 @@
         
         
         <li >
-            <a href='/zh-cn/%E9%93%BE%E6%8E%A5/' >
+            <a href='/zh-cn/search/' >
                 
                 
                 
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
-  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
 </svg>
 
 
 
                 
-                <span>链接</span>
+                <span>搜索</span>
             </a>
         </li>
         
@@ -250,11 +250,45 @@
     <div class="not-found-card">
         <h1 class="article-title">404 错误</h1>
         <h2 class="article-subtitle">页面不存在</h2>
-    </div><footer class="site-footer">
+    </div><form action="/zh-cn/search/" class="search-form widget" data-json="http://localhost:1313/zh-cn/search/index.json">
+            <p>
+                <label>搜索</label>
+                <input id="searchInput" name="keyword" required placeholder="输入关键词..." />
+            
+                <button title="搜索">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                </button>
+            </p>
+        </form>
+
+        <div class="search-result">
+            <h3 class="search-result--title section-title"></h3>
+            <div class="search-result--list article-list--compact"></div>
+        </div>
+        
+        <script>
+            window.searchResultTitleTemplate = "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
+        </script><script type="text/javascript" src="/ts/search.js" defer></script>
+
+        <script>
+            const wrongUrl = new URL(window.location.href);
+
+            
+            const searchKeyword = wrongUrl.pathname.split(/[/|-]/).join(' ').trim();
+
+            document.getElementById('searchInput').setAttribute('value', searchKeyword);
+        </script><footer class="site-footer">
     <section class="copyright">
         &copy; 
         
-        2024 Sanoka
+        2024 An BingXu
     </section>
     
     <section class="powerby">

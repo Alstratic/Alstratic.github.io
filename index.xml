@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>安炳旭</title>
+        <title>An BingXu</title>
         <link>http://localhost:1313/</link>
-        <description>Recent content on 安炳旭</description>
+        <description>Recent content on An BingXu</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>Sanoka</copyright>
-        <lastBuildDate>Sat, 02 Nov 2024 12:37:26 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>MyFirstBlog</title>
-        <link>http://localhost:1313/p/myfirstblog/</link>
-        <pubDate>Sat, 02 Nov 2024 12:37:26 +0800</pubDate>
+        <language>en</language>
+        <copyright>An BingXu</copyright>
+        <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Me</title>
+        <link>http://localhost:1313/about-me/</link>
+        <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/myfirstblog/</guid>
-        <description>&lt;h1 id=&#34;这是我的第一篇博文&#34;&gt;这是我的第一篇博文
-&lt;/h1&gt;</description>
+        <guid>http://localhost:1313/about-me/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Hi, there!👀&lt;/strong&gt; I&amp;rsquo;m An BingXu, currently a &lt;strong&gt;HQUer&lt;/strong&gt;(Huaqiao University) majoring in Artificial Intelligence. I will begin my graduate studies at the Shanghai Astronomical Observatory (SHAO) of the University of Chinese Academy of Sciences (UCAS) in 2025.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m glad to have the experience to work in &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/SendsTeam&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SENDS Lab&lt;/a&gt;&lt;/strong&gt; as a frontend developer (based on &lt;strong&gt;Vue&lt;/strong&gt;), which left me a deep impression. Besides, I&amp;rsquo;m also interested in backend development (Java/C++) and AI4S(AI for Science).&lt;/p&gt;
+&lt;p&gt;I enjoy&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Playing &lt;strong&gt;badmintion🏸&lt;/strong&gt; and &lt;strong&gt;tennis🎾&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Listening to &lt;strong&gt;Music🎵&lt;/strong&gt;, especially R&amp;amp;B and pop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Excited to connect and share my journey with you!&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Chinese Test</title>
@@ -23,8 +31,7 @@
         
         <guid>http://localhost:1313/p/test-chinese/</guid>
         <description>&lt;img src="http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
-&lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
-&lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。&lt;/p&gt;
 &lt;h2 id=&#34;引用&#34;&gt;引用
 &lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
@@ -106,7 +113,7 @@
 </description>
         </item>
         <item>
-        <title>归档</title>
+        <title>Archives</title>
         <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
@@ -448,28 +455,11 @@ $$</description>
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>Search</title>
-        <link>http://localhost:1313/search/</link>
+        <title>Links</title>
+        <link>http://localhost:1313/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>链接</title>
-        <link>http://localhost:1313/%E9%93%BE%E6%8E%A5/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/%E9%93%BE%E6%8E%A5/</guid>
+        <guid>http://localhost:1313/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -498,6 +488,14 @@ $$</description>
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
         </item>
         
     </channel>
