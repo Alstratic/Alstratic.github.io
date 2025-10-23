@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "关于我"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,29 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-你好！我是 Sanoka，一名专注于机器学习和推荐系统的研究者。
+Hello! I'm **Bingxu An**, a graduate student at the UCAS, passionate about advancing the field of Machine Learning and Artificial Intelligence.
 
-## 研究兴趣
+## Research Interests
 
-我的研究主要集中在以下领域：
+My research focuses on the following areas:
 
-- **推荐系统**：多任务学习、精排模型、用户建模
-- **大语言模型（LLM）**：后训练技术（SFT、DPO、RLHF）
-- **生成式AI**：生成式推荐系统、多模态模型
+- **Recommendation Systems**: 
+  - Multi-task learning, ranking models, user behavior modeling
+  - Generative Recommenders
+- **Large Language Models (LLMs)**: Post-training techniques (SFT, DPO, RLHF)
+- **Generative AI**: Applications in recommendation systems and multimodal learning
 
-## 教育背景
+## Education
 
-- **硕士** - 计算机科学，某某大学（2022-2024）
-- **学士** - 软件工程，某某大学（2018-2022）
+- **M.S. in Computer Science**, University of Chinese Academy of Sciences (2025-now)
+- **B.S. in Artificial Intelligence**, HuaQiao University (2021-2025)
 
-## 最新动态
+## Recent Updates
 
-- 📝 正在学习斯坦福 CS336 课程
-- 🔬 研究生成式推荐系统的应用
-- 💻 维护技术博客，分享学习笔记
+- 📝 Currently studying Stanford CS336: Language Modeling from Scratch
+- 🔬 Researching applications of generative models in recommendation systems
+- 💻 Maintaining a technical blog sharing learning notes on LLMs and ML
 
-## 技能
 
-**编程语言**: Python, Java, JavaScript  
-**框架**: PyTorch, TensorFlow, Hugging Face  
-**工具**: Git, Docker, VS Code
+## Contact
+
+Feel free to reach out for research collaboration or academic discussions!
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 GitHub: [@alstratic](https://github.com/alstratic)
+- 📚 Google Scholar: [Your Profile](#) (Update link)
