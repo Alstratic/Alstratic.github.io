@@ -8,34 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm **Bingxu An**, a graduate student at the UCAS, passionate about advancing the field of Machine Learning and Artificial Intelligence.
+ Hey there! 👋 I'm **Bingxu An** (安炳旭), a first-year Master student in UCAS, Shanghai Astronomical Observatory, majoring in Artificial Intelligence. I received the B.S. degree from Huaqiao University(HQU) in July, 2025.
 
-## Research Interests
+In HQU I joined the [SENDS](https://github.com/SendsTeam) Lab at HQU, where I met a group of incredible friends who share the same passion for technology and innovation. Now, my research passion lies in **LLM&Rec** (LLM/Recommendation Systems/LLM4Rec).
 
-My research focuses on the following areas:
+## 📣 Recent News!
 
-- **Recommendation Systems**: 
-  - Multi-task learning, ranking models, user behavior modeling
-  - Generative Recommenders
-- **Large Language Models (LLMs)**: Post-training techniques (SFT, DPO, RLHF)
-- **Generative AI**: Applications in recommendation systems and multimodal learning
+🎯 July 24, 2025. Graduated from Huaqiao University with B.S. degree! 
 
-## Education
+## 📬 Let's Connect!
 
-- **M.S. in Computer Science**, University of Chinese Academy of Sciences (2025-now)
-- **B.S. in Artificial Intelligence**, HuaQiao University (2021-2025)
+ Just feel free to reach out! 🤝
 
-## Recent Updates
-
-- 📝 Currently studying Stanford CS336: Language Modeling from Scratch
-- 🔬 Researching applications of generative models in recommendation systems
-- 💻 Maintaining a technical blog sharing learning notes on LLMs and ML
-
-
-## Contact
-
-Feel free to reach out for research collaboration or academic discussions!
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [an.bingxu@qq.com](mailto:an.bingxu@qq.com)
 - 💼 GitHub: [@alstratic](https://github.com/alstratic)
-- 📚 Google Scholar: [Your Profile](#) (Update link)
+
+---

@@ -26,11 +26,11 @@ author:
   avatar           : avatar.jpg
   name             : "Bingxu An"
   pronouns         : # example: "she/her"  
-  bio              : "A student in UCAS"
+  bio              : "Master Student at UCAS"
   location         : "Beijing"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : # "none@example.org" 
+  email            : "an.bingxu@qq.com" 
 
   # Academic websites
   academia         : # URL
@@ -252,15 +252,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
   # _publications
   - scope:
       path: ""
@@ -279,14 +271,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 
 # Sass/SCSS
