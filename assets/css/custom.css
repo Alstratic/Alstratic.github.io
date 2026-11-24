@@ -1,0 +1,74 @@
+/* Site-specific additions on top of theme-luka.css.
+   Kept separate so the template stylesheet can be updated from upstream. */
+
+/* Chinese text falls back to system CJK fonts (Inter has no CJK glyphs). */
+body.theme-luka {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+}
+
+/* Inline SVG icons (replace the Font Awesome kit). */
+body.theme-luka .icon {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  display: block;
+}
+
+body.theme-luka .theme-toggle .icon {
+  margin: 0 auto;
+}
+
+body.theme-luka .icon-sun,
+[data-theme="dark"] body.theme-luka .icon-moon {
+  display: none;
+}
+
+[data-theme="dark"] body.theme-luka .icon-sun {
+  display: block;
+}
+
+/* Sidebar: Chinese name and one-line affiliation. */
+body.theme-luka .site-name-zh {
+  margin: 0 0 12px;
+  color: var(--luka-secondary);
+  font-size: 16px;
+  letter-spacing: 0.08em;
+}
+
+body.theme-luka .site-tagline {
+  margin: 0 0 6px;
+  color: var(--luka-text);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* News list. */
+body.theme-luka .news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+body.theme-luka .news-list li {
+  display: flex;
+  gap: 16px;
+  padding: 6px 0;
+  font-size: 15px;
+}
+
+body.theme-luka .news-date {
+  flex-shrink: 0;
+  min-width: 84px;
+  color: var(--luka-accent);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.75;
+}
+
+@media (max-width: 480px) {
+  body.theme-luka .news-list li {
+    flex-direction: column;
+    gap: 0;
+  }
+}
