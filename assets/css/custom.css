@@ -72,3 +72,10 @@ body.theme-luka .news-date {
     gap: 0;
   }
 }
+
+/* One-line summary under each project entry. */
+body.theme-luka .pub-content .desc {
+  margin-bottom: 6px;
+  color: var(--luka-text);
+  font-size: 14px;
+}
